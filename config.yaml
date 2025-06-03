@@ -1,0 +1,12 @@
+default_glob: "VRS_*.sto"
+
+mappings:
+  "_VantageGT4_": "amvantagegt4"
+  "_P217_": "dallarap217"
+  "_Elantra_": "hyundaielantracn7"
+  "_LMP3_": "ligierjsp320"
+  "_MGT3_": "mercedesamgevogt3"
+  "_MX5_": "mx5 mx52016"
+  "_PCup_": "porsche992cup"
+  "_FF1600_": "raygr22"
+  "_SFL_": "superformulalights324"
