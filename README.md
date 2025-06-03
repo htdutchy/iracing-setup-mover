@@ -2,6 +2,7 @@
 Moves your iracing setup files from your downloads folder to the mapped car based a simple yaml configuration.
 
 Requires `pyyaml`, `pip install pyyaml`.  
+When new files for a car are detected, all previous files are moved to a subdirectory called `old`.  
 Otherwise, does what it says on the packaging.
 
 ## Configuration
